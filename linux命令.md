@@ -14,6 +14,7 @@ Host 别名
 - 生成秘钥
 ```
 ssh-keygen -t rsa
+ssh-keygen -t ed25519
 ```
 - 传输秘钥
 ```
